@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -q express
+#PBS -l walltime=01:00:00
+#PBS -l mem=128GB
+#PBS -l jobfs=100GB
+#PBS -l wd
+#PBS -j oe
+#PBS -P c38
+module load openmpi/1.10.2
+
+mpirun ./Scalable_EA -dim 50 -island_size 64 -task_num 32 -problem_ID $PROBLEM_ID -max_base_FEs 12800
