@@ -1,0 +1,65 @@
+openmpi/1.10.2(3):ERROR:150: Module 'openmpi/1.10.2' conflicts with the currently loaded module(s) 'openmpi/1.6.3'
+openmpi/1.10.2(3):ERROR:102: Tcl command execution failed: source /opt/Modules/extensions/extensions.tcl
+
+------task num = 32 -- problem set = 2-------
+end run 1
+end run 2
+end run 3
+end run 4
+end run 5
+end run 6
+end run 7
+end run 8
+end run 9
+end run 10
+end run 11
+end run 12
+end run 13
+end run 14
+end run 15
+--------------------------------------------------
+Total Elapsed time: 1162.037897 seconds
+Total Elapsed time: 1161.982521 seconds
+Total Elapsed time: 1161.982304 seconds
+Total Elapsed time: 1161.982448 seconds
+Total Elapsed time: 1161.982517 seconds
+Total Elapsed time: 1161.982435 seconds
+Total Elapsed time: 1161.982613 seconds
+Total Elapsed time: 1161.982530 seconds
+Total Elapsed time: 1161.982590 seconds
+Total Elapsed time: 1161.982642 seconds
+Total Elapsed time: 1161.982544 seconds
+Total Elapsed time: 1161.982510 seconds
+Total Elapsed time: 1161.982449 seconds
+Total Elapsed time: 1161.982463 seconds
+Total Elapsed time: 1161.982325 seconds
+Total Elapsed time: 1161.982520 seconds
+Total Elapsed time: 1161.982507 seconds
+Total Elapsed time: 1161.982500 seconds
+Total Elapsed time: 1161.982630 seconds
+Total Elapsed time: 1161.982420 seconds
+Total Elapsed time: 1161.982440 seconds
+Total Elapsed time: 1161.982346 seconds
+Total Elapsed time: 1161.982501 seconds
+Total Elapsed time: 1161.982447 seconds
+Total Elapsed time: 1161.982459 seconds
+Total Elapsed time: 1161.982476 seconds
+Total Elapsed time: 1161.982626 seconds
+Total Elapsed time: 1161.982536 seconds
+Total Elapsed time: 1161.982307 seconds
+Total Elapsed time: 1161.982413 seconds
+Total Elapsed time: 1161.982635 seconds
+Total Elapsed time: 1161.982308 seconds
+
+======================================================================================
+                  Resource Usage on 2018-09-16 20:30:21:
+   Job Id:             280050.r-man2
+   Project:            c38
+   Exit Status:        0
+   Service Units:      31.20
+   NCPUs Requested:    32                     NCPUs Used: 32              
+                                           CPU Time Used: 10:19:40                                   
+   Memory Requested:   128.0GB               Memory Used: 543.89MB        
+   Walltime requested: 01:00:00            Walltime Used: 00:19:30        
+   JobFS requested:    100.0GB                JobFS used: 1.0KB           
+======================================================================================
